@@ -170,7 +170,7 @@ Ensure that App Store Connect and Play Store & Play Store credentials are proper
 Ensure **Node.js** is installed, then run:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### 2. Prebuild the Project
